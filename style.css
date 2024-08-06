@@ -1,9 +1,3 @@
-
-h1{
-    text-align: center;
-    font-family: Arial, sans-serif, Times, serif
-
-}
 body{
     background-image: url(imagens/2022cor.webp);
     text-align: center;
@@ -15,8 +9,7 @@ body{
 }
 #body2{
     background-image: url(imagens/ola.png);
-    
-     
+        
 }
 .texto {
     text-align: center;
