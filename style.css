@@ -14,24 +14,13 @@ body{
 .texto {
     text-align: center;
 color: white;
-   
-}
-.texto1{
-    margin-top: 20%;
-    border: 5px;
-    text-align:left ;
-    font-size: 500%;
-    color: white;
 }
 
 .img4{
     color: white;
 }
 
-button{
-    background-image:url(imagens/oi.png)
 
-}
 
 
 
